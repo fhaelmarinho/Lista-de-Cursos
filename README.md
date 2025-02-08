@@ -1,6 +1,6 @@
-# Lista-de-Cursos
+# Lista-de-Cursos-Python
 
- Cursos de Python Lista dos melhores cursos gratuitos online de Python
+ Lista dos melhores cursos gratuitos online de Python
 
 Youtube
 Canal Python para Zumbis
