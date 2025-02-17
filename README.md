@@ -6,6 +6,7 @@ Youtube
 Canal Python para Zumbis
 
 https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc
+
 Canal eXcript
 
 https://www.youtube.com/watch?v=j94IGZmwtYI
@@ -110,5 +111,3 @@ Making Graphs in Python using Matplotlib for Beginners https://www.udemy.com/mak
 Python Object Oriented Full Guide https://www.udemy.com/python-object-oriented-from-scratch/
 
 Google's Python Class https://developers.google.com/edu/python/
-
-https://cursos.alura.com.br/loginForm?urlAfterLogin=%5BaHR0cHM6Ly9jdXJzb3MuYWx1cmEuY29tLmJyL2ltZXJzb2VzL2F1bGFzL2F1bGEtMDQtYXByaW1vcmUtYS1pbnRlcmF0aXZpZGFkZS1hZGljaW9uYW5kby1maWxtZXMtY29tLWphdmFzY3JpcHQtYzExNj9faHNtaT0yODI3MTI1ODA%5D https://cursos.alura.com.br/imersoes/aulas/aula-04-aprimore-a-interatividade-adicionando-filmes-com-javascript-c116?_hsmi=282712580
